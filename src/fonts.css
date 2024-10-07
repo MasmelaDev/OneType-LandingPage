@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'AcuminVariableConcept';
+  src: url('/fonts/AcuminVariableConcept.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvantGarde';
+  src: url('/fonts/ITCAvantGardeGothicMedium.otf');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AvantGarde';
+  src: url('/fonts/ITCAvantGardeGothicBold.otf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvantGarde';
+  src: url('/fonts/AVGARDN.TTF');
+  font-weight: normal;
+  font-style: normal;
+}
+.font-acumin{
+    font-family: 'AcuminVariableConcept';
+  }
