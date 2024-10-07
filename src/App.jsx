@@ -1,6 +1,6 @@
 import { Contacto } from './sections/contacto'
 import { Header } from './sections/header'
-import { Hero } from './sections/Hero'
+import { Hero } from './sections/hero'
 import { Portfolio } from './sections/portfolio'
 import { Services } from './sections/services'
 function App() {
